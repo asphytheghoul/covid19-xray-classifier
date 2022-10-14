@@ -1,4 +1,4 @@
-# covid19-chestxray
+# Covid19-chestxray
 
 <img src="https://socialify.git.ci/asphytheghoul/cifar10-classifier/image?font=Rokkitt&language=1&name=1&owner=1&stargazers=1&theme=Dark" alt="covid19 classifier" width="640" height="320" />
 This is a CNN which classifies images as covid or normal based on a publicly available dataset. To run the program, download and install the requirements from the `requirements.txt` file 
